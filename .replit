@@ -1,0 +1,3 @@
+language = "cpp"
+run = "g++ zufall.cc -o zufall; ./zufall"
+
